@@ -6,3 +6,5 @@ To use the DailyJournal Application in your system. Just clone or download the r
 Then open the terminal in your project folder and run node app.js to run our server.
 
 Finally, you can use localhost:3000 to run your application. And run localhost:3000/compose to add the article and permanently save it to mongoDb database.
+
+Feel free to contact me at tapasvashi98@gmail.com for any doubts.
